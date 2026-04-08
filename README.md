@@ -11,16 +11,16 @@
 - 🔭 I’m currently working on **exciting web and software projects**
 - 🌱 Learning **full-stack development** & **open-source contribution**
 - 💡 Interested in solving real-world problems with clean code
-- 🧠 Exploring **JavaScript, Python, and DevOps basics**
+- 🧠 Exploring **HTML, CSS , TailwindCSS, DaisyUI,JavaScript, ReactJS, NextJS, MongoDB**
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, C, HTML/CSS  
-- **Frameworks:** React, Node.js (learning)  
-- **Tools:** Git, VS Code, Linux basics  
-- **Databases:** MongoDB, MySQL (beginner)
+- **Languages:** JavaScript, HTML/CSS  
+- **Frameworks:** React
+- **Tools:** Git, VS Code  
+- **Databases:** MongoDB
 
 ---
 
