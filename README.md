@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I’m Mehedy
 
-<!--
-**mehedyPUST/mehedyPUST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate from **PUST** (Pabna University of Science and Technology)  
+📫 Reach me at: **mehedy.pust@gmail.com**  
+🐙 GitHub: [mehedyPUST](https://github.com/mehedyPUST)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 I’m currently working on **exciting web and software projects**
+- 🌱 Learning **full-stack development** & **open-source contribution**
+- 💡 Interested in solving real-world problems with clean code
+- 🧠 Exploring **JavaScript, Python, and DevOps basics**
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript, Python, C, HTML/CSS  
+- **Frameworks:** React, Node.js (learning)  
+- **Tools:** Git, VS Code, Linux basics  
+- **Databases:** MongoDB, MySQL (beginner)
+
+---
+
+### 📈 GitHub Stats
+
+![Mehedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedyPUST&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+
+- Email: mehedy.pust@gmail.com  
+- GitHub: [github.com/mehedyPUST](https://github.com/mehedyPUST)
+
+---
+
+⭐️ *Thanks for stopping by! Feel free to check out my repositories and connect.*
