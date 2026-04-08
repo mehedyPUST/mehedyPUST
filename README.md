@@ -51,8 +51,9 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedyPUST&theme=radical" alt="GitHub Streak" width="48%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedyPUST&theme=radical" alt="Activity Graph" width="90%"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedyPUST&theme=radical" alt="GitHub Streak" width="48%"/>
+ 
 
 </div>
 
