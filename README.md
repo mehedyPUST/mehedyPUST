@@ -50,9 +50,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedyPUST&theme=radical" alt="Activity Graph" width="90%"/>
-</div>
+
 
 ---
 
