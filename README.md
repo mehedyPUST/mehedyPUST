@@ -214,24 +214,6 @@ A democratic, interest-free cooperative fund management system for groups and co
 
 ---
 
-## 📁 Project Structure
-
-
-
----
-
-# 📸 Project Showcase
-
-
-<div align="center">
-
-Add your project screenshots here
-
-
-</div>
-
-
----
 
 # 🌐 Connect With Me
 
@@ -308,26 +290,7 @@ Add your project screenshots here
 
 ---
 
-# 🐍 Contribution Snake
 
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mehedyPUST/mehedyPUST/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
-
----
-
-# 🏆 GitHub Trophy
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mehedyPUST&theme=flat&no-frame=true&row=1&column=6"/>
-
-</div>
 
 
 ---
