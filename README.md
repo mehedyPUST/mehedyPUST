@@ -337,5 +337,3 @@ Feel free to explore my repositories and connect with me.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
 
 </div>
-
-
