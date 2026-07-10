@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mehedy%20Hasan&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&fontColor=white" width="100%"/>
 </div>
 
@@ -79,6 +79,52 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mehedyPUST&color=blue&style=flat-square)
 
 ⭐️ *Thanks for stopping by! Feel free to check out my repositories and connect.*
+
+**Happy Coding!** 🚀
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div> -->
+
+
+
+
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedyPUST&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedyPUST&theme=radical" alt="GitHub Streak" width="48%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedyPUST&theme=radical" alt="Activity Graph" width="90%"/>
+</div>
+
+---
+
+### Connect with Me
+
+- **Email**: [mehedy.pust@gmail.com](mailto:mehedy.pust@gmail.com)
+- **GitHub**: [github.com/mehedyPUST](https://github.com/mehedyPUST)
+- **LinkedIn**: [linkedin.com/in/mehedyPUST](https://linkedin.com/in/mehedyPUST)
+- **Twitter**: [twitter.com/mehedyPUST](https://twitter.com/mehedyPUST)
+
+---
+
+<div align="center">
+  
+### Profile Views
+  
+![Profile Views](https://komarev.com/ghpvc/?username=mehedyPUST&color=blue&style=flat-square)
+
+*Thanks for stopping by! Feel free to check out my repositories and connect.*
 
 **Happy Coding!** 🚀
 
