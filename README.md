@@ -1,171 +1,99 @@
 <div align="center">
 
-# Hi, I'm Mehedy Hasan 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=230&section=header&text=Mehedy%20Hasan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MongoDB&descAlignY=60"/>
 
-### Full-Stack Web Developer | React • Next.js • MongoDB
+<br/>
 
-I'm passionate about building practical web applications that solve real-world problems. I enjoy creating clean, responsive user interfaces while continuously improving my backend development skills.
-
-[![GitHub](https://img.shields.io/badge/GitHub-mehedyPUST-181717?style=for-the-badge&logo=github)](https://github.com/mehedyPUST)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehedy%20Hasan-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mehedypust)
-[![Email](https://img.shields.io/badge/Email-mehedy.pust@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedy.pust@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Real-World+Applications;React+%7C+Next.js+%7C+MongoDB;Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hi, I'm Mehedy Hasan
 
-- 🎓 Graduate of **Pabna University of Science and Technology (PUST)**
-- 💻 Full-Stack Web Developer focused on modern JavaScript technologies
-- 🌱 Continuously learning backend architecture, authentication and scalable web applications
-- 🚀 Enjoy building products that provide real value to users
-- 🎯 Strong interest in clean code, performance optimization and responsive UI
-- 🤝 Always open to learning, collaboration and new opportunities
+### Full-Stack Web Developer
 
----
+I am a Full-Stack Web Developer passionate about building modern, responsive, and scalable web applications.
 
-## 🚀 Currently Working On
-
-- 🏠 RentNest — Property Rental Platform
-- 🚗 Drive Fleet — Vehicle Booking & Management System
-- 🔐 Authentication with Better Auth & JWT
-- ⚡ Next.js App Router
-- ☁️ MongoDB Database Design
-- 🎨 Building modern UI with Tailwind CSS
+I enjoy solving real-world problems through clean code, better UI/UX, and modern web technologies.
 
 ---
 
-## 🛠 Tech Stack
+# 📍 Contact Information
 
-### Frontend
+📌 **Location:** `<YOUR_LOCATION>`
+
+📧 **Email:** mehedy.pust@gmail.com
+
+📱 **Phone:** `<YOUR_PHONE>`
+
+🌐 **Portfolio:** `<YOUR_PORTFOLIO_LINK>`
+
+📄 **Resume:** `<YOUR_RESUME_LINK>`
+
+
+---
+
+# 👨‍💻 About Me
+
+I am a graduate of **Pabna University of Science and Technology (PUST)** and completed the **Programming Hero Web Development Bootcamp**.
+
+Currently focusing on Full-Stack Development with React, Next.js, MongoDB, and modern authentication systems.
+
+I love creating useful products, learning new technologies, and improving my skills through real-world projects.
+
+---
+
+# 🚀 Current Activities
+
+- 🔥 Exploring advanced **Next.js App Router**
+- 🔐 Learning authentication using **Better Auth & JWT**
+- 🏠 Building **RentNest - Property Rental Platform**
+- 🚗 Working on booking and management systems
+- 📚 Improving backend architecture and database design
+- 🌱 Learning scalable application development
+
+---
+
+# 🛠️ Skills & Technologies
+
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind" />
 </p>
 
-### Backend
+
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools
+
+## 🧰 Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-### 🏠 RentNest
-
-A modern property rental platform where users can browse, list and manage rental properties.
-
-**Tech Stack**
-
-- Next.js
-- React
-- MongoDB
-- Better Auth
-- Tailwind CSS
 
 ---
 
-### 🚗 Drive Fleet
+# 🚀 Featured Projects
 
-A vehicle rental and booking platform with authentication, booking management and responsive design.
 
-**Tech Stack**
+## 🏠 RentNest
 
-- React
-- Next.js
-- MongoDB
-- Express.js
+A modern property rental platform where users can explore properties, manage listings, and handle rental activities.
 
----
+### Features:
+- User authentication
+- Property management
+- Booking system
+- Dashboard
+- Responsive UI
 
-### 🛍 SunCart
 
-An e-commerce application with authentication, dashboard and responsive user experience.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedyPUST&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedyPUST&theme=transparent&hide_border=true"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedyPUST&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedyPUST&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Next.js
-- Better Auth
-- REST API Design
-- Database Optimization
-- Performance Optimization
-- System Design Basics
-
----
-
-## 🎯 Goals
-
-- Build production-ready web applications
-- Improve backend development skills
-- Contribute to open-source projects
-- Learn scalable application architecture
-- Keep improving every day through real projects
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-
-<a href="mailto:mehedy.pust@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mehedyPUST">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/mehedypust">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=mehedyPUST&style=for-the-badge)
-
-### Thanks for visiting my profile!
-
-I'm always interested in learning new technologies, collaborating on meaningful projects, and building applications that make people's lives easier.
-
-⭐ Feel free to explore my repositories and connect with me.
-
-</div>
+### Technologies:
