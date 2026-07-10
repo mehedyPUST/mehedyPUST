@@ -22,15 +22,11 @@ I enjoy solving real-world problems through clean code, better UI/UX, and modern
 
 # 📍 Contact Information
 
-📌 **Location:** `<YOUR_LOCATION>`
+📌 **Location:** `Kushtia,Khulna,Dhaka,Bangladesh`
 
 📧 **Email:** mehedy.pust@gmail.com
 
-📱 **Phone:** `<YOUR_PHONE>`
-
-🌐 **Portfolio:** `<YOUR_PORTFOLIO_LINK>`
-
-📄 **Resume:** `<YOUR_RESUME_LINK>`
+📱 **Phone:** `+8801751479474`
 
 
 ---
@@ -97,3 +93,203 @@ A modern property rental platform where users can explore properties, manage lis
 
 
 ### Technologies:
+
+Next.js
+React
+MongoDB
+Better Auth
+Tailwind CSS
+
+
+
+
+---
+
+## 🚗 Drive Fleet
+
+A vehicle rental management platform that allows users to browse vehicles and manage bookings.
+
+### Features:
+
+- Authentication
+- Vehicle listing
+- Booking workflow
+- Responsive dashboard
+
+
+### Technologies:
+
+React
+Next.js
+MongoDB
+Express.js
+Tailwind CSS
+
+
+
+
+---
+
+## 🛒 SunCart
+
+An e-commerce application with modern UI, authentication and dashboard features.
+
+
+---
+
+# 📸 Project Showcase
+
+
+<div align="center">
+
+Add your project screenshots here
+
+
+</div>
+
+
+---
+
+# 🌐 Connect With Me
+
+
+<p align="center">
+
+<a href="mailto:mehedy.pust@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+
+<a href="https://github.com/mehedyPUST">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+
+<a href="https://www.linkedin.com/in/mehedypust/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+
+</p>
+
+
+---
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedyPUST&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true"/>
+
+
+<img height="170" src="https://streak-stats.demolab.com?user=mehedyPUST&theme=transparent&hide_border=true"/>
+
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedyPUST&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
+
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedyPUST&theme=github_dark"/>
+
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedyPUST&theme=github-compact&hide_border=true"/>
+
+
+</div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mehedyPUST/mehedyPUST/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+# 🏆 GitHub Trophy
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mehedyPUST&theme=flat&no-frame=true&row=1&column=6"/>
+
+</div>
+
+
+---
+
+# 🎯 Goals
+
+- Build production-ready applications
+- Become a stronger Full-Stack Developer
+- Contribute to open-source projects
+- Learn scalable software architecture
+- Keep improving every day
+
+
+---
+
+# 💭 Developer Quote
+
+
+> "Great software is built by continuously learning, improving, and solving real problems."
+
+
+---
+
+<div align="center">
+
+
+### ⭐ Thanks for visiting my profile!
+
+
+Feel free to explore my repositories and connect with me.
+
+
+<br/>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=mehedyPUST&style=for-the-badge&color=0e75b6)
+
+
+</div>
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+
+</div>
+
+
