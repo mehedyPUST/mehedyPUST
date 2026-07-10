@@ -1,93 +1,171 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mehedy%20Hasan&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&fontColor=white" width="100%"/>
-</div>
 
-<br/>
+# Hi, I'm Mehedy Hasan 👋
 
-# 👋 Hi, I'm Mehedy
+### Full-Stack Web Developer | React • Next.js • MongoDB
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7F7&center=false&vCenter=true&width=600&lines=%F0%9F%9A%80+Full-stack+dev+in+progress;%F0%9F%92%BB+Building+clean%2C+real-world+solutions;%E2%9D%A4%EF%B8%8F+Open+source+enthusiast;%F0%9F%8E%AE+Love+React+%26+Next.js;%F0%9F%93%8A+Exploring+MongoDB+%26+TailwindCSS)](https://git.io/typing-svg)
+I'm passionate about building practical web applications that solve real-world problems. I enjoy creating clean, responsive user interfaces while continuously improving my backend development skills.
 
-🎓 Graduate from **PUST** (Pabna University of Science and Technology)  
-📫 Reach me at: **mehedy.pust@gmail.com**  
-🐙 GitHub: [mehedyPUST](https://github.com/mehedyPUST)
-
----
-
-### 🚀 About Me
-
-- 🔭 I'm currently working on **exciting web and software projects**
-- 🌱 Learning **full-stack development** & **open-source contribution**
-- 💡 Interested in solving real-world problems with clean code
-- 🧠 Exploring **HTML, CSS, TailwindCSS, DaisyUI, JavaScript, ReactJS, NextJS, MongoDB**
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-mehedyPUST-181717?style=for-the-badge&logo=github)](https://github.com/mehedyPUST)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehedy%20Hasan-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mehedypust)
+[![Email](https://img.shields.io/badge/Email-mehedy.pust@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedy.pust@gmail.com)
 
 </div>
 
 ---
 
-### 📈  GitHub Stats
+## 👨‍💻 About Me
+
+- 🎓 Graduate of **Pabna University of Science and Technology (PUST)**
+- 💻 Full-Stack Web Developer focused on modern JavaScript technologies
+- 🌱 Continuously learning backend architecture, authentication and scalable web applications
+- 🚀 Enjoy building products that provide real value to users
+- 🎯 Strong interest in clean code, performance optimization and responsive UI
+- 🤝 Always open to learning, collaboration and new opportunities
+
+---
+
+## 🚀 Currently Working On
+
+- 🏠 RentNest — Property Rental Platform
+- 🚗 Drive Fleet — Vehicle Booking & Management System
+- 🔐 Authentication with Better Auth & JWT
+- ⚡ Next.js App Router
+- ☁️ MongoDB Database Design
+- 🎨 Building modern UI with Tailwind CSS
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🏠 RentNest
+
+A modern property rental platform where users can browse, list and manage rental properties.
+
+**Tech Stack**
+
+- Next.js
+- React
+- MongoDB
+- Better Auth
+- Tailwind CSS
+
+---
+
+### 🚗 Drive Fleet
+
+A vehicle rental and booking platform with authentication, booking management and responsive design.
+
+**Tech Stack**
+
+- React
+- Next.js
+- MongoDB
+- Express.js
+
+---
+
+### 🛍 SunCart
+
+An e-commerce application with authentication, dashboard and responsive user experience.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedyPUST&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
- 
-</div>
 
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedyPUST&show_icons=true&theme=transparent&hide_border=true"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedyPUST&theme=radical" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedyPUST&theme=radical" alt="Activity Graph" width="90%"/>
- 
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedyPUST&theme=transparent&hide_border=true"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedyPUST&theme=github-compact&hide_border=true"/>
 
 </div>
 
 ---
 
-### 📫 Connect with Me
+## 📈 Most Used Languages
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-mehedy.pust%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedy.pust@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mehedyPUST-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehedyPUST)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedyPUST)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mehedyPUST)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedyPUST&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
+## 🌱 Currently Learning
+
+- Advanced Next.js
+- Better Auth
+- REST API Design
+- Database Optimization
+- Performance Optimization
+- System Design Basics
+
+---
+
+## 🎯 Goals
+
+- Build production-ready web applications
+- Improve backend development skills
+- Contribute to open-source projects
+- Learn scalable application architecture
+- Keep improving every day through real projects
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="mailto:mehedy.pust@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mehedyPUST">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/mehedypust">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
-  
-### 🎯 Profile Views
-  
-![Profile Views](https://komarev.com/ghpvc/?username=mehedyPUST&color=blue&style=flat-square)
 
-⭐️ *Thanks for stopping by! Feel free to check out my repositories and connect.*
+![](https://komarev.com/ghpvc/?username=mehedyPUST&style=for-the-badge)
 
-**Happy Coding!** 🚀
+### Thanks for visiting my profile!
+
+I'm always interested in learning new technologies, collaborating on meaningful projects, and building applications that make people's lives easier.
+
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
-
-
-
-
